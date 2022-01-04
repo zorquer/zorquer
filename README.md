@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zorquer
 - 👀 I’m interested in web 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning web development (front end tools)
 - 💞️ I’m looking to collaborate on web developers 
 - 📫 How to reach me sharanistheking8055@gmail.com
 
